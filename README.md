@@ -3,5 +3,10 @@
 
 "Please try anything to help this repository owner collaborate with developers!"
 
+## What should we do?
+In this repository, I aim to gain experience by writing and learning useful code snippets that can be easily executed going forward.
+
+It doesn't matter what language you use. Write whatever snippets, code blocks, or examples you think are good.
+
 ## ChangeLog
 - I made a README.md
