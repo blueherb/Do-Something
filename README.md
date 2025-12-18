@@ -9,5 +9,7 @@ In this repository, I aim to gain experience by writing and learning useful code
 It doesn't matter what language you use. Write whatever snippets, code blocks, or examples you think are good.
 
 ## ChangeLog
-- I made a README.md
+- Publish an example of a code block on how to use the 'event' keyword
 - Publish an example of a code block on how to use the 'lock' keyword
+- I made a README.md
+
