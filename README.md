@@ -10,3 +10,4 @@ It doesn't matter what language you use. Write whatever snippets, code blocks, o
 
 ## ChangeLog
 - I made a README.md
+- Publish an example of a code block on how to use the 'lock' keyword
